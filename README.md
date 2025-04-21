@@ -42,8 +42,9 @@
 
 ## 📊 GitHub Stats
 
-![Shadrach's GitHub Stats](https://github.com/beesmalls)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Shadrach's GitHub Stats](https://github-readme-stats.vercel.app/api?username=beesmalls&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beesmalls&layout=compact&theme=radical)
+
 
 ---
 
