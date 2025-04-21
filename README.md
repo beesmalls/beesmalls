@@ -52,7 +52,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/shadrach-paal/)
 - 🌐 [PaalTech Website](https://paaltech.it.com)
-- 📫 **Email:** `your-email@example.com`
+- 📫 **Email:** `paalshadrach@yahoo.com`
 
 > “Code like there’s no tomorrow. Debug like a detective.”
 
